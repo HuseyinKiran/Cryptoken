@@ -7,6 +7,6 @@
 
 ![Cryptoken SplashActivity](./images/CryptokenSplashActivity.png)
 ![Cryptoken MainActivity](./images/CryptokenMainActivity.png)
-![Cryptoken MainActivity](./images/CryptokenMainActivity.png)
-![Cryptoken CoinDetailActivity](./images/CryptokenCoinDetail.png)
-![Cryptoken CoinDetailActivity](./images/CryptokenCoinDetail2.png)
+![Cryptoken MainActivity](./images/CryptokenMainActivity2.png)
+![Cryptoken CoinDetailActivity](./images/CryptokenDetailActivity.png)
+![Cryptoken CoinDetailActivity](./images/CryptokenDetailActivity2.png)
