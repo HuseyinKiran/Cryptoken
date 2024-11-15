@@ -10,3 +10,4 @@
 ![Cryptoken MainActivity](./images/CryptokenMainActivity2.png)
 ![Cryptoken CoinDetailActivity](./images/CryptokenDetailActivity.png)
 ![Cryptoken CoinDetailActivity](./images/CryptokenDetailActivity2.png)
+![Cryptoken CoinDetailActivity](./images/CryptokenDetailActivity3.png)
