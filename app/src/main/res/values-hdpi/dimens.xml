@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- activity_coin_detail -->
+    <dimen name="title_layout_padding">12dp</dimen>
+    <dimen name="img_crypto_size">24dp</dimen>
+    <dimen name="img_crypto_marginEnd">3dp</dimen>
+    <dimen name="img_crypto_padding">3dp</dimen>
+    <dimen name="txtRank_size">16sp</dimen>
+    <dimen name="txtName_size">16sp</dimen>
+    <dimen name="txtName_marginStart">3dp</dimen>
+    <dimen name="txtDesc_size">12sp</dimen>
+    <dimen name="txtIsActive_size">14sp</dimen>
+
+    <!-- general -->
+    <dimen name="general_margin">12dp</dimen>
+    <dimen name="labels_textSize">14sp</dimen>
+
+    <!-- cell_teammembers -->
+    <dimen name="memberLayout_padding">12dp</dimen>
+    <dimen name="txtMember_size">12sp</dimen>
+
+    <!-- cell_tag -->
+    <dimen name="tagCard_margin">3dp</dimen>
+    <dimen name="txtTag_padding">6dp</dimen>
+    <dimen name="txtTag_size">11sp</dimen>
+
+    <!-- cell_link -->
+    <dimen name="linkLayout_padding">6dp</dimen>
+    <dimen name="txtLink_size">10sp</dimen>
+
+    <!-- cell_crypto -->
+    <dimen name="rowLayout_padding">12dp</dimen>
+    <dimen name="txtRankName_size">14sp</dimen>
+    <dimen name="txtActive_size">12sp</dimen>
+
+</resources>
