@@ -2,6 +2,7 @@ package com.huseyinkiran.cryptoretrofitjava.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
@@ -10,6 +11,7 @@ import android.widget.VideoView;
 
 import com.huseyinkiran.cryptoretrofitjava.R;
 
+@SuppressLint("CustomSplashScreen")
 public class SplashActivity extends AppCompatActivity {
 
     VideoView videoView;

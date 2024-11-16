@@ -4,13 +4,9 @@ import com.google.gson.annotations.SerializedName;
 
 public class CryptoModel {
 
-    @SerializedName("id")
     private String id;
-    @SerializedName("name")
     private String name;
-    @SerializedName("symbol")
     private String symbol;
-    @SerializedName("rank")
     private int rank;
     @SerializedName("is_active")
     private boolean isActive;
